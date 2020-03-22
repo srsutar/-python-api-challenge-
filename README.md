@@ -1,8 +1,6 @@
 # python-api-challenge
 
-## Weather While Approaching the Equator
-
-### Jupyter notebook files
+### Jupyter notebook files:
 
 ##### WeatherPy.ipynb- Cities distance from the Equator
 
