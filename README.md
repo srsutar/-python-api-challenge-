@@ -2,6 +2,8 @@
 
 ## Weather While Approaching the Equator
 
-### Cities distance from the Equator
+### Jupyter notebook files
 
-### Future Vacations According to the Weather
+#### WeatherPy- Cities distance from the Equator
+
+#### Safe Vacation- Future Vacations According to the Weather
