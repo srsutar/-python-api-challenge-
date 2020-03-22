@@ -4,6 +4,6 @@
 
 ### Jupyter notebook files
 
-#### WeatherPy- Cities distance from the Equator
+##### WeatherPy.ipynb- Cities distance from the Equator
 
-#### Safe Vacation- Future Vacations According to the Weather
+##### SafeVacationPy.ipynb- Future Vacations According to the Weather
